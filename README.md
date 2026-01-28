@@ -8,7 +8,7 @@
    2. Tailwindcss
    3. Vite
 
-**🔗 demo:** [awizp-js.netlify.app](https://awizp-js.netlify.app/)
+**🔗 demo:** [awizp-js.netlify.app](https://awizp-js.netlify.app/components/task7/)
 
 ---
  
